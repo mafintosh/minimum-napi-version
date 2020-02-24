@@ -1,0 +1,20 @@
+{
+  "name": "minimum-napi-version",
+  "version": "0.0.0",
+  "description": "Detect the minimum Node.js version needed for the N-APIs you use",
+  "bin": {
+    "minimum-napi-version": "./bin.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/minimum-napi-version.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/minimum-napi-version/issues"
+  },
+  "homepage": "https://github.com/mafintosh/minimum-napi-version"
+}
