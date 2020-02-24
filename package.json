@@ -1,6 +1,6 @@
 {
   "name": "minimum-napi-version",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect the minimum Node.js version needed for the N-APIs you use",
   "bin": {
     "minimum-napi-version": "./bin.js"
