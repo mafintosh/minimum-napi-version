@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const binding = require('node-gyp-build').path(__dirname)
+const binding = require('node-gyp-build').path(process.argv[2] || process.cwd())
 const { spawn } = require('child_process')
 const https = require('https')
 
